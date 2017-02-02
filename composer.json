@@ -1,0 +1,24 @@
+{
+    "name": "brookinsconsulting/bcmixedcontentpreventionfilter",
+    "description": "eZ Publish Legacy extension which provides a simple event (output filter) which replaces calls to http design resources. Great for ssl / https websites!",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "ssl", "http", "https", "event", "filter", "class" ],
+    "homepage": "https://bitbucket.org/brookinsconsulting/bcmixedcontentpreventionfilter",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bcmixedcontentpreventionfilter"
+    }
+}

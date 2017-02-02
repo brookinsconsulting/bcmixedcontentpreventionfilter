@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC Mixed Content Prevention Filter</name>
+        <version>0.1.0</version>
+        <copyright>Copyright (C) 1999 - 2017 Brookins Consulting. All rights reserved.</copyright>
+        <license>GNU General Public License</license>
+        <info_url>https://github.com/brookinsconsulting/bcmixedcontentpreventionfilter</info_url>
+    </metadata>
+</software>
